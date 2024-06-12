@@ -4,26 +4,26 @@ This project delves into the development of a cutting-edge hand gesture recognit
 
 **Project Description:**
 
-**Background:**
+**1. Background:**
 
 An extensive review of 20 research papers revealed consistent limitations in traditional hand gesture recognition methodologies. These limitations necessitated a strategic shift towards a more robust solution, leading to the adoption of the MediaPipe framework. MediaPipe, with its pre-trained models, offers significant improvements in both accuracy and real-time performance, far surpassing conventional Convolutional Neural Network (CNN) based approaches. This transition has not only streamlined the development process but also provided unparalleled efficiency and seamless integration into existing systems.
 
-**Implementation Details:**
+**2. Implementation Details:**
 
 The implementation of this project involved integrating MediaPipe's pre-trained models to enhance the recognition of hand gestures. By doing so, the project achieved a higher level of accuracy and real-time performance compared to traditional methods. The MediaPipe framework, known for its comprehensive and versatile platform, facilitated the quick integration of complex functionalities such as hand recognition, pose estimation, and object tracking without the need to build everything from scratch.
 
 **Statistical Testing and Analysis:**
 
-**Hypothesis Testing:**
+**1. Hypothesis Testing:**
 
 - **Null Hypothesis (H0):** There is no significant difference in the accuracy of hand gesture recognition using the proposed method (MediaPipe framework with TensorFlow in OpenCV) compared to other existing methods.
 - **Alternative Hypothesis (H1):** The proposed method (MediaPipe framework with TensorFlow in OpenCV) shows a significant improvement in the accuracy of hand gesture recognition compared to other existing methods.
 
 To test these hypotheses, One-way ANOVA and Paired t-tests were employed. The One-way ANOVA was chosen due to the presence of multiple methods for hand gesture recognition, while the Paired t-test was utilized to compare the performance of two models implemented within the MediaPipe framework.
 
-**One-way ANOVA Results:** The calculated F-value exceeded the critical F-value at a 0.05 significance level, leading to the rejection of the null hypothesis.
+**2. One-way ANOVA Results:** The calculated F-value exceeded the critical F-value at a 0.05 significance level, leading to the rejection of the null hypothesis.
 
-**Paired t-test Results:** The calculated T-value also exceeded the critical value at a 0.05 significance level, further rejecting the null hypothesis.
+**3. Paired t-test Results:** The calculated T-value also exceeded the critical value at a 0.05 significance level, further rejecting the null hypothesis.
 
 **Advantages of MediaPipe:**
 
