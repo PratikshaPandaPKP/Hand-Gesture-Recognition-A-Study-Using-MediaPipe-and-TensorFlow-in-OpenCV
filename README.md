@@ -56,4 +56,18 @@ By harnessing MediaPipe's advanced capabilities, the project achieved superior p
 The successful implementation of this project showcases its practical and academic significance, paving the way for future advancements in human-computer interaction. The project's outcomes demonstrate the potential for MediaPipe to revolutionize gesture recognition technology, making it a valuable contribution to the field.
 
 
-**Project Deliverables Overview:**
+**Project Deliverables Overview**
+
+**1. Hand-Gesture-Recognition-Project.rar**
+   - **Profile file in zip format**: Contains necessary project files and resources.
+
+**2. Hand_Gesture_Detection**
+   - **main.py**: Execute this file to generate the project output.
+
+**3. Pratiksha-Panda-Hand-Gesture-Recognition-BlackBook-Report-PDF.pdf**
+   - **Blackbook of Final Research Project: Comprehensive document covering:**
+     - Preliminary analysis
+     - Methodology
+     - System analysis
+     - Code and implementation details
+     - Detailed project overview and findings
