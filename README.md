@@ -65,9 +65,4 @@ The successful implementation of this project showcases its practical and academ
    - **main.py**: Execute this file to generate the project output.
 
 **3. Pratiksha-Panda-Hand-Gesture-Recognition-BlackBook-Report-PDF.pdf**
-   - **Blackbook of Final Research Project: Comprehensive document covering:**
-     - Preliminary analysis
-     - Methodology
-     - System analysis
-     - Code and implementation details
-     - Detailed project overview and findings
+   - **Blackbook of Final Research Project:** Comprehensive document covering preliminary analysis, methodology, system analysis, code and implementation details, and everything related to the project.
