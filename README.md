@@ -69,3 +69,61 @@ The successful implementation of this project showcases its practical and academ
 
 
 **Hand Gesture Recognition Screenshots:**
+
+**1. Peace:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/010bbdb9-03de-4ae7-a39a-504c0b22440f)
+
+
+**2. Okay:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/30358ea2-3a88-4060-b308-0d623d49fb2d)
+
+
+**3. Thumbs Down:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/682dded7-af24-4442-ae59-f08992ff2d08)
+
+
+**4. Thumbs Up:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/c2f54f24-b7bf-477b-93e4-569a3b3607d7)
+
+
+**5. Live Long:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/3fb798d7-1338-4181-b9ed-16b3dbdcc0e5)
+
+
+**6. Stop:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/bda29692-f6a9-4313-b866-299970d69cd9)
+
+
+**7. Smile:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/4459e39f-8370-4c3f-91e2-7466940b8e8d)
+
+
+**8. Rock:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/970153b1-3105-407c-8b50-6cbf6fe8a2f6)
+
+
+**9. Fist:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/791f3434-d910-490a-ba10-29c51c194950)
+
+
+**10. Call Me:**
+
+![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/24b13e9f-9f08-444c-b9a3-94d9d77a113e)
+
+
+
+
+
+
+
+
+
