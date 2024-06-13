@@ -120,7 +120,7 @@ The successful implementation of this project showcases its practical and academ
 ![image](https://github.com/PratikshaPandaPKP/Hand-Gesture-Recognition-A-Study-Using-MediaPipe-and-TensorFlow-in-OpenCV/assets/112324400/24b13e9f-9f08-444c-b9a3-94d9d77a113e)
 
 
-**Video Link Of The Project In Action:**
+**Video Link of The Project in Action:**
 
 https://www.loom.com/share/f5a2c0afd74447c1b22ce6f9cb4ec989?sid=c0aea85b-7768-48ce-af82-bc7ab1be8bfd
 
