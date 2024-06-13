@@ -54,3 +54,6 @@ By harnessing MediaPipe's advanced capabilities, the project achieved superior p
 
 **5. Practical and Academic Impact:**
 The successful implementation of this project showcases its practical and academic significance, paving the way for future advancements in human-computer interaction. The project's outcomes demonstrate the potential for MediaPipe to revolutionize gesture recognition technology, making it a valuable contribution to the field.
+
+
+**Project Deliverables Overview:**
